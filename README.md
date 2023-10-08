@@ -1,7 +1,7 @@
 ## Demo
 https://github.com/tchief/space-tours/assets/729374/504f28c8-6e4c-4ce3-9fc4-067fdb492530
 
-https://github.com/tchief/space-tours/assets/729374/9ac4f148-9831-428d-b2a2-812b8664b75d
+https://github.com/tchief/space-tours/assets/729374/48fba17d-e226-440e-8536-243dfcdc8749
 
 https://github.com/tchief/space-tours/assets/729374/82137104-38e9-471b-9b1a-adab21f1767a
 
