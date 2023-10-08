@@ -16,8 +16,8 @@ Chat bot for space travel agencies.
 5. Bot uses new information for answers.
 
 ## Links:
-1. https://github.dev/tchief/space-tours - tours in markdown
-2. https://rekall.vercel.app - chat bot in website
+1. https://github.dev/tchief/space-tours - tours in markdown editable
+2. https://rekall.space - chat bot in website
 3. https://t.me/RekallBot - chat bot in Telegram
 
 ## Next steps?
