@@ -23,6 +23,7 @@ Chat bot for space travel agencies.
 1. https://github.dev/tchief/space-tours - tours in markdown editable
 2. https://rekall.space - chat bot in website
 3. https://t.me/RekallBot - chat bot in Telegram
+4. [Rekall#7039](https://discord.com/api/oauth2/authorize?client_id=1160543411917561917&permissions=2147551296&scope=bot%20applications.commands) - chat bot in Discord
 
 ## Next steps?
 1. Connect bot directly to NASA APIs (get up to date info about solar system, news from API).
