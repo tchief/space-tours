@@ -1,3 +1,7 @@
+## LINKS
+1. [NOTION](https://www.notion.so/Space-Tour-Flyer-d767a805d99e400d9f9d7278f1b838f8)
+2. [WEB APPP](https://master--bejewelled-raindrop-76f4a5.netlify.app/) [source](https://github.com/Gnatienko/nasachallenge)
+
 ## Demo
 https://github.com/tchief/space-tours/assets/729374/504f28c8-6e4c-4ce3-9fc4-067fdb492530
 
